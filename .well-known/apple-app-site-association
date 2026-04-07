@@ -5,7 +5,7 @@
       {
         "appID": "NN8BMCTUS5.com.nrlogistics.rider",
         "paths": [
-          "*"
+          "/nrex-uk-site/*"
         ]
       }
     ]
